@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d7d0ae0.chunk.css",
+    "main.js": "/static/js/main.e95b6080.chunk.js",
+    "main.js.map": "/static/js/main.e95b6080.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
+    "static/css/2.67dfcf2d.chunk.css": "/static/css/2.67dfcf2d.chunk.css",
+    "static/js/2.78ab7cf6.chunk.js": "/static/js/2.78ab7cf6.chunk.js",
+    "static/js/2.78ab7cf6.chunk.js.map": "/static/js/2.78ab7cf6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.41a863511005b74f7e5e9b83ba5c5881.js": "/precache-manifest.41a863511005b74f7e5e9b83ba5c5881.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.67dfcf2d.chunk.css.map": "/static/css/2.67dfcf2d.chunk.css.map",
+    "static/css/main.9d7d0ae0.chunk.css.map": "/static/css/main.9d7d0ae0.chunk.css.map",
+    "static/js/2.78ab7cf6.chunk.js.LICENSE.txt": "/static/js/2.78ab7cf6.chunk.js.LICENSE.txt",
+    "static/media/BMX_FINAL-1.png": "/static/media/BMX_FINAL-1.0f46d20d.png",
+    "static/media/Icon.png": "/static/media/Icon.69248ec1.png",
+    "static/media/header_styles.css": "/static/media/jumbotron-bg_photo.c5d6b03f.png",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/project_styles.css": "/static/media/nuk-pro-buildings.7e32888c.png",
+    "static/media/resume.pdf": "/static/media/resume.e2129880.pdf",
+    "static/media/testimonial-bg-half.png": "/static/media/testimonial-bg-half.7f943e49.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceaf4b5f.js",
+    "static/css/2.67dfcf2d.chunk.css",
+    "static/js/2.78ab7cf6.chunk.js",
+    "static/css/main.9d7d0ae0.chunk.css",
+    "static/js/main.e95b6080.chunk.js"
+  ]
+}
