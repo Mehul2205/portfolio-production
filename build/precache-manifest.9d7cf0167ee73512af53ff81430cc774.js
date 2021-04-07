@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "642f3fabb248639b96a3b9e18fe241cf",
+    "revision": "9854a2f401f96405a7dc228b607e43ad",
     "url": "/index.html"
   },
   {
-    "revision": "9169b3ce441498ced58f",
-    "url": "/static/css/2.67dfcf2d.chunk.css"
+    "revision": "e4bfcdede33bf09cab05",
+    "url": "/static/css/2.8bc8b67a.chunk.css"
   },
   {
-    "revision": "4d2328fd4b18aa946592",
-    "url": "/static/css/main.9d7d0ae0.chunk.css"
+    "revision": "1fd147639d7962ed7a50",
+    "url": "/static/css/main.0b60a940.chunk.css"
   },
   {
-    "revision": "9169b3ce441498ced58f",
-    "url": "/static/js/2.78ab7cf6.chunk.js"
+    "revision": "e4bfcdede33bf09cab05",
+    "url": "/static/js/2.6a662c14.chunk.js"
   },
   {
-    "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/static/js/2.78ab7cf6.chunk.js.LICENSE.txt"
+    "revision": "1a3cc71403f332d098a2b9cdd7c4c36d",
+    "url": "/static/js/2.6a662c14.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d2328fd4b18aa946592",
-    "url": "/static/js/main.e95b6080.chunk.js"
+    "revision": "1fd147639d7962ed7a50",
+    "url": "/static/js/main.33cd3f30.chunk.js"
   },
   {
-    "revision": "5284eec07972ace79c95",
-    "url": "/static/js/runtime-main.ceaf4b5f.js"
+    "revision": "4f2b1704eab49d50853b",
+    "url": "/static/js/runtime-main.19ccc7f6.js"
   },
   {
     "revision": "0f46d20d0249edfd0d2f4fa6d01dd531",
@@ -72,11 +72,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nuk-pro-buildings.7e32888c.png"
   },
   {
-    "revision": "e2129880b950bad22b729d55a151fe1f",
-    "url": "/static/media/resume.e2129880.pdf"
+    "revision": "41470904ecf37eafbe13251c019ec28c",
+    "url": "/static/media/resume.41470904.pdf"
   },
   {
     "revision": "7f943e49c99de9c23fef7fd2e7578693",
     "url": "/static/media/testimonial-bg-half.7f943e49.png"
+  },
+  {
+    "revision": "29f2b8c29a07df3c895ea978a3920c52",
+    "url": "/static/media/tfjs-sample.29f2b8c2.png"
   }
 ]);
